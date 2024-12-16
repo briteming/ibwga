@@ -4,24 +4,24 @@
 
 let mainConfig = {
   vssueConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
-    clientId: "2783a4b752f56c0ed912",
-    clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
+    owner: "briteming",
+    repo: "ibwga",
+    clientId: "Ov23liq0VjxWPMAVb8Ig",
+    clientSecret: "d9ca3c22bf57be1920a5cf47c4baa7c960981d36"
   },
 
   repoConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
-    pushBranch: "master",
-    email: "yidadaa@qq.com",
-    filterUsers: ['Yidadaa']
+    owner: "briteming",
+    repo: "ibwga",
+    pushBranch: "source",
+    email: "briteming@gmail.com",
+    filterUsers: ['briteming']
   },
 
-  title: "YiFei Zhang's Blog",
+  title: "brite's Blog",
   description: "在这里了解我的一切，对编程的热爱永不停歇。",
   customDomain: "",
-  base: "/Issue-Blog-With-Github-Action/",
+  base: "/ibwga/",
 
   slogan: {
     main: "有逻辑的灵魂，",
@@ -32,7 +32,7 @@ let mainConfig = {
     nav: [
       {
         name: "首页",
-        link: "/Issue-Blog-With-Github-Action"
+        link: "/ibwga"
       },
       {
         name: "Github",
@@ -40,7 +40,7 @@ let mainConfig = {
       },
       {
         name: "CV",
-        link: "/Issue-Blog-With-Github-Action/cv.html"
+        link: "/ibwga/cv.html"
       }
     ],
     headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
