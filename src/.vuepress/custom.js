@@ -13,7 +13,7 @@ let mainConfig = {
   repoConfig: {
     owner: "briteming",
     repo: "ibwga",
-    pushBranch: "source",
+    pushBranch: "gh-pages",
     email: "briteming@gmail.com"
   },
 
