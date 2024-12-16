@@ -14,8 +14,7 @@ let mainConfig = {
     owner: "briteming",
     repo: "ibwga",
     pushBranch: "source",
-    email: "briteming@gmail.com",
-    filterUsers: ['briteming']
+    email: "briteming@gmail.com"
   },
 
   title: "brite's Blog",
